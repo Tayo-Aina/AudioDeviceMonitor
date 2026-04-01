@@ -20,7 +20,7 @@ Audio Device Monitor is a lightweight application that runs silently in the syst
 
 ## Installation
 
-[**Releases**](https://github.com/ayyyuuuuuuuub/AudioDeviceMonitor/releases)
+[**Releases**](https://github.com/realMoai/AudioDeviceMonitor/releases)
 
 ## Building from Source
 
@@ -33,7 +33,7 @@ Once the prerequisites are met, you can clone the repository and build the solut
 
 ```bash
 # Clone the repository
-git clone [https://github.com/ayyyuuuuuuuub/AudioDeviceMonitor.git](https://github.com/ayyyuuuuuuuub/AudioDeviceMonitor.git)
+git clone [https://github.com/realMoai/AudioDeviceMonitor.git](https://github.com/realMoai/AudioDeviceMonitor.git)
 
 # Open the .sln file in Visual Studio and build in "Release" mode.
 ```
